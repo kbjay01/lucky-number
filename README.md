@@ -1,2 +1,2 @@
 # lucky-number
-A lucky number games, that randomizes 5 numbers for students
+A lucky number is an app, that randomizes 5 lucky numbers for students
